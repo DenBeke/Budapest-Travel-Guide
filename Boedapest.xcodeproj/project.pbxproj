@@ -1,0 +1,326 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C71690FE1F6B134A007E024E /* budapest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C71690FD1F6B134A007E024E /* budapest.jpg */; };
+		C76D30881E4539FE00376C1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30871E4539FE00376C1E /* AppDelegate.swift */; };
+		C76D308A1E4539FE00376C1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30891E4539FE00376C1E /* ViewController.swift */; };
+		C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D308B1E4539FE00376C1E /* Main.storyboard */; };
+		C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D30901E4539FE00376C1E /* LaunchScreen.storyboard */; };
+		C76D309A1E453B4900376C1E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30991E453B4900376C1E /* TableViewController.swift */; };
+		C76D309C1E4541D800376C1E /* page.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D309B1E4541D800376C1E /* page.swift */; };
+		C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A11E45BB7B00376C1E /* Media.xcassets */; };
+		C76D30A61E463D6E00376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A51E463D6E00376C1E /* pages */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C71690FD1F6B134A007E024E /* budapest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = budapest.jpg; sourceTree = "<group>"; };
+		C76D30841E4539FE00376C1E /* Boedapest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Boedapest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C76D30871E4539FE00376C1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C76D30891E4539FE00376C1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C76D308C1E4539FE00376C1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C76D30911E4539FE00376C1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C76D30931E4539FE00376C1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C76D30991E453B4900376C1E /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		C76D309B1E4541D800376C1E /* page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = page.swift; sourceTree = "<group>"; };
+		C76D30A11E45BB7B00376C1E /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Media.xcassets; path = ../Boedapest/Media.xcassets; sourceTree = "<group>"; };
+		C76D30A51E463D6E00376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; name = pages; path = ../Boedapest/pages; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C76D30811E4539FE00376C1E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C76D307B1E4539FE00376C1E = {
+			isa = PBXGroup;
+			children = (
+				C76D30861E4539FE00376C1E /* Boedapest */,
+				C76D30851E4539FE00376C1E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C76D30851E4539FE00376C1E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C76D30841E4539FE00376C1E /* Boedapest.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C76D30861E4539FE00376C1E /* Boedapest */ = {
+			isa = PBXGroup;
+			children = (
+				C76D30A11E45BB7B00376C1E /* Media.xcassets */,
+				C71690FD1F6B134A007E024E /* budapest.jpg */,
+				C76D30A51E463D6E00376C1E /* pages */,
+				C76D30871E4539FE00376C1E /* AppDelegate.swift */,
+				C76D30891E4539FE00376C1E /* ViewController.swift */,
+				C76D308B1E4539FE00376C1E /* Main.storyboard */,
+				C76D30991E453B4900376C1E /* TableViewController.swift */,
+				C76D309B1E4541D800376C1E /* page.swift */,
+				C76D30901E4539FE00376C1E /* LaunchScreen.storyboard */,
+				C76D30931E4539FE00376C1E /* Info.plist */,
+			);
+			path = Boedapest;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C76D30831E4539FE00376C1E /* Boedapest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C76D30961E4539FE00376C1E /* Build configuration list for PBXNativeTarget "Boedapest" */;
+			buildPhases = (
+				C76D30801E4539FE00376C1E /* Sources */,
+				C76D30811E4539FE00376C1E /* Frameworks */,
+				C76D30821E4539FE00376C1E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Boedapest;
+			productName = Praag;
+			productReference = C76D30841E4539FE00376C1E /* Boedapest.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C76D307C1E4539FE00376C1E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Mathias Beke";
+				TargetAttributes = {
+					C76D30831E4539FE00376C1E = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 2H55825CLX;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C76D307F1E4539FE00376C1E /* Build configuration list for PBXProject "Boedapest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C76D307B1E4539FE00376C1E;
+			productRefGroup = C76D30851E4539FE00376C1E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C76D30831E4539FE00376C1E /* Boedapest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C76D30821E4539FE00376C1E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C71690FE1F6B134A007E024E /* budapest.jpg in Resources */,
+				C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */,
+				C76D30A61E463D6E00376C1E /* pages in Resources */,
+				C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */,
+				C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C76D30801E4539FE00376C1E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C76D308A1E4539FE00376C1E /* ViewController.swift in Sources */,
+				C76D309A1E453B4900376C1E /* TableViewController.swift in Sources */,
+				C76D309C1E4541D800376C1E /* page.swift in Sources */,
+				C76D30881E4539FE00376C1E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C76D308B1E4539FE00376C1E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C76D308C1E4539FE00376C1E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C76D30901E4539FE00376C1E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C76D30911E4539FE00376C1E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C76D30941E4539FE00376C1E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C76D30951E4539FE00376C1E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C76D30971E4539FE00376C1E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2H55825CLX;
+				INFOPLIST_FILE = Boedapest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = denbeke.Boedapest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		C76D30981E4539FE00376C1E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2H55825CLX;
+				INFOPLIST_FILE = Boedapest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = denbeke.Boedapest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C76D307F1E4539FE00376C1E /* Build configuration list for PBXProject "Boedapest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C76D30941E4539FE00376C1E /* Debug */,
+				C76D30951E4539FE00376C1E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C76D30961E4539FE00376C1E /* Build configuration list for PBXNativeTarget "Boedapest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C76D30971E4539FE00376C1E /* Debug */,
+				C76D30981E4539FE00376C1E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C76D307C1E4539FE00376C1E /* Project object */;
+}
