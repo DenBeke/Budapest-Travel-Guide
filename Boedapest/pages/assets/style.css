@@ -11,3 +11,38 @@ body {
 	font-size: 16px;
 	padding: 1rem;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 2rem !important;
+}
+
+h2 {
+}
+
+h3 {
+	//background-color: #D33F49;
+	//color: #fff;
+	//margin: 0 -1rem;
+	//padding: 1rem;
+	margin-top: 2em;
+}
+
+h4 {
+	background-color: #519BC1;
+	color: #fff;
+	margin: 0 -1rem;
+	padding: 1rem;
+}
+
+.figure {
+	margin: 0 -1rem;
+}
+
+img {
+	width: 100%;
+}
