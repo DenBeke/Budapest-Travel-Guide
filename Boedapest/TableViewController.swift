@@ -17,6 +17,7 @@ class TableViewController: UITableViewController {
         names = [
             Page(name: "Burcht en oude stad", url: "burcht"),
             Page(name: "Gellért-hegy", url: "gellert"),
+            Page(name: "Tabán", url: "taban"),
             Page(name: "Tripje naar Visegrád en Szentendre", url: "tripje naar visegrad"),
             Page(name: "Restaurants", url: "restaurant"),
         ]
