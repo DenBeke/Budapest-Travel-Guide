@@ -1,5 +1,3 @@
-## Waar kunnen we rustig iets eten...
-
 ### Aangeraden restaurants op Reddit
 
 Bij deze restaurants is reserveren een must.

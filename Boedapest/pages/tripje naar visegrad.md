@@ -13,7 +13,7 @@ In Visegrád kunnen we al wandelend genieten van de natuur. Voor het avondeten n
 We kunnen ofwel [per boot](http://www.mahartpassnave.hu/en/timetable/danube-bend-excursion-boat-lines/budapest-szentendre-visegrad/) (2750 Ft) van Boedapest naar Visegrád ofwel per trein (650 Ft) en dan de overzet vanuit Nagymaros naar Visegrád (420 Ft). De trein vertrekt in Budapest-Keleti.  
 De boot trip van Boedapest naar Visegrád duurt zo'n 3 uur.
 
-Voor de terugweg is het simpelste om de boot te nemen naar Szentendre (1650 Ft) en na het avondeten de boot (22OO Ft) of de bus terug van Szentendre naar Boedapest.  
+Voor de terugweg is het simpelste om de boot te nemen naar Szentendre (1650 Ft) en na het avondeten de boot (2200 Ft) of de bus terug van Szentendre naar Boedapest.  
 De boten varen blijkbaar wel niet laat meer terug.
 
 
