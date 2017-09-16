@@ -19,8 +19,10 @@ class TableViewController: UITableViewController {
             Page(name: "Víziváros, de Waterstad", url: "waterstad"),
             Page(name: "Rond het parlement", url: "parlement"),
             Page(name: "Centraal Pest", url: "pest"),
+            Page(name: "Városliget, het stadspark", url: "stadspark"),
             Page(name: "Gellért-hegy", url: "gellert"),
             Page(name: "Tabán", url: "taban"),
+            Page(name: "Extra...", url: "extra"),
             Page(name: "Tripje naar Visegrád en Szentendre", url: "tripje naar visegrad"),
             Page(name: "Restaurants", url: "restaurant"),
         ]
