@@ -15,6 +15,8 @@ class TableViewController: UITableViewController {
     
     override func viewDidLoad() {
         names = [
+            Page(name: "Burcht en oude stad", url: "burcht"),
+            Page(name: "Gellért-hegy", url: "gellert"),
             Page(name: "Tripje naar Visegrád en Szentendre", url: "tripje naar visegrad"),
             Page(name: "Restaurants", url: "restaurant"),
         ]
