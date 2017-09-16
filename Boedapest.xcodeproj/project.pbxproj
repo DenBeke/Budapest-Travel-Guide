@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C71690FE1F6B134A007E024E /* budapest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C71690FD1F6B134A007E024E /* budapest.jpg */; };
-		C71691001F6B23FC007E024E /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C71690FF1F6B23FC007E024E /* Media.xcassets */; };
+		C75C3B5D1F6D879600CFFD00 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C75C3B5C1F6D879600CFFD00 /* Media.xcassets */; };
 		C76D30881E4539FE00376C1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30871E4539FE00376C1E /* AppDelegate.swift */; };
 		C76D308A1E4539FE00376C1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30891E4539FE00376C1E /* ViewController.swift */; };
 		C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D308B1E4539FE00376C1E /* Main.storyboard */; };
@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		C71690FD1F6B134A007E024E /* budapest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = budapest.jpg; sourceTree = "<group>"; };
-		C71690FF1F6B23FC007E024E /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		C75C3B5C1F6D879600CFFD00 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		C76D30841E4539FE00376C1E /* Boedapest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Boedapest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C76D30871E4539FE00376C1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C76D30891E4539FE00376C1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 		C76D30861E4539FE00376C1E /* Boedapest */ = {
 			isa = PBXGroup;
 			children = (
-				C71690FF1F6B23FC007E024E /* Media.xcassets */,
+				C75C3B5C1F6D879600CFFD00 /* Media.xcassets */,
 				C71690FD1F6B134A007E024E /* budapest.jpg */,
 				C76D30A51E463D6E00376C1E /* pages */,
 				C76D30871E4539FE00376C1E /* AppDelegate.swift */,
@@ -136,7 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C71691001F6B23FC007E024E /* Media.xcassets in Resources */,
+				C75C3B5D1F6D879600CFFD00 /* Media.xcassets in Resources */,
 				C71690FE1F6B134A007E024E /* budapest.jpg in Resources */,
 				C76D30A61E463D6E00376C1E /* pages in Resources */,
 				C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */,
