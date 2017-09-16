@@ -3,6 +3,7 @@ Budapest Travel Guide
 
 *iPhone/iPad app with tourist information about Budapest*
 
+![](https://denbeke.be/blog/wp-content/uploads/2017/09/Budapest-Travel-Guide-App.png)
 
 Instead of creating a Word document with all interesting places to visit in Budapest, I created an iPhone app with all that information.
 
